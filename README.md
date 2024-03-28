@@ -1,5 +1,5 @@
 # Mumble-Multilaunch
-A simple script to launch multiple, independent isntances of the Mumble VOIP client.
+A simple script to launch multiple, independent instances of the Mumble VOIP client.
 
 
 This script is intended to be placed in a _secondary_ copy of mumble that has already been set up with a configuration override file. (mumble.ini)
