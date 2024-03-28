@@ -13,6 +13,7 @@ This script was written as a .bat file, and then repackaged as an executable for
 The .bat _will_ work as a standalone, I repackaged it solely for ease of use. (e.g. adding shortcuts to desktop, start menu, and/or taskbar)
 
 If you need assistance setting up your second mumble instance, I have a previously released video guide that covers how to do so here https://youtu.be/ScHEUefY-cE?t=150
+Once you have created the .ini file, you're done. This tool makes all the following steps redundant, aside from configuring your new client installation.
 
 
 
